@@ -1,0 +1,5 @@
+interface:
+  display_name: "Shader Interface Kit"
+  short_description: "Design pearlescent shader UI kits"
+  brand_color: "#596CFF"
+  default_prompt: "Use $shader-interface-kit to design the hero first, then expand the approved direction into a complete landing-page kit."
